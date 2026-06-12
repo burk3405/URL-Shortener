@@ -6,7 +6,7 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-A minimal URL shortener with a dark terminal-style UI. Paste a long link, get a short one, share it anywhere.
+A minimal URL shortener. Paste a long link, get a short one, share it anywhere.
 
 ---
 
